@@ -1,0 +1,41 @@
+{
+    "Music":
+    {
+        "Track 1": 
+        [
+            {
+                "Title":"Epic Hollywood trailer",
+                "src":"epic-hollywood-trailer.mp3",
+                "artist":"Daddy_s_Music",
+                "cover":"panda.png"
+            }
+        ],
+        "Track 2": 
+        [
+            {
+                "Title":"Inspiring Cinematic ambiant",
+                "src":"inspiring-cinematic-ambient.mp3",
+                "artist":"Lexin_Music",
+                "cover":"balloon.jpg"
+            }
+        ],
+        "Track 3": 
+        [
+            {
+                "Title":"Lifelike",
+                "src":"lifelike.mp3",
+                "artist":"AlexiAction",
+                "cover":"licorice-tea.jpg"
+            }
+        ],
+        "Track 4": 
+        [
+            {
+                "Title":"Risk",
+                "src":"risk.mp3",
+                "artist":"StudioKolomna",
+                "cover":"sparkling-champagne.jpg"
+            }
+        ]
+    }
+}
